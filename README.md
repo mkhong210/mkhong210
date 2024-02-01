@@ -2,6 +2,8 @@
 
 ### Hi there 👋 Welcome to MinKyung's Github 👋
 
+### 새로운 것을 받아들이고 계속해서 발전해 나가고 싶은 개발자 홍민경입니다. 👍
+
 ## 📚Skill Stack📚
 ### DEVELOP
 <div>
@@ -14,9 +16,9 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/nextjs-000000?style=flat&logo=nextdotjs&logoColor=ffffff">
 </div>
 
-### Studying
+### Study ~ing
 <div>
-vue / typescript / 
+vue / typescript 
 </div>
 
 ### GRAPHIC
